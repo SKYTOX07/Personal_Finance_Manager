@@ -4,9 +4,6 @@ A full-featured Spring Boot web application designed to help users manage their 
 
 [![Java](https://img.shields.io/badge/Java-17+-blue.svg)](https://openjdk.org/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen.svg)](https://spring.io/projects/spring-boot)
-[![JUnit 5](https://img.shields.io/badge/Tests-JUnit_5-green)](https://junit.org/junit5/)
-[![Coverage](https://img.shields.io/badge/Test%20Coverage-98%25-yellowgreen)](![image](https://github.com/user-attachments/assets/446ce643-b452-4e2f-993c-6fbf71d2345a)
-)
 [![Docker](https://img.shields.io/badge/Deployed-Docker-blue)](https://www.docker.com/)
 [![Render](https://img.shields.io/badge/Live_Render-Available-green)](https://personal-finance-manager-9ja1.onrender.com)
 
@@ -51,16 +48,6 @@ A full-featured Spring Boot web application designed to help users manage their 
 
 ---
 
-## 🧪 Testing
-
-- ✔️ **98% Unit Test Coverage**
-- Frameworks used: `JUnit 5`, `Mockito`
-- All business logic, validations, and services are covered
-![image](https://github.com/user-attachments/assets/c6087979-871c-4c69-a763-513d0080411f)
-
-
----
-
 ## 📦 Tech Stack
 
 | Layer             | Technology                   |
@@ -70,7 +57,6 @@ A full-featured Spring Boot web application designed to help users manage their 
 | Security          | Spring Security              |
 | Build Tool        | Maven                        |
 | Database          | H2 (in-memory)               |
-| Testing           | JUnit 5, Mockito             |
 | Containerization  | Docker                       |
 | Deployment        | Render                       |
 
@@ -183,8 +169,8 @@ Contributions are welcome! Please fork the repo and open a pull request.
 
 ## 🙋‍♂️ Author
 
-**Sujit Kumar**  
-📧 [sujitkumarrajput2004@gmail.com](mailto:sujitkumarrajput2004@gmail.com)  
-🔗 [GitHub Profile](https://github.com/sujitkumar2004)
+**Aman Kumar**  
+📧 [amanyadav880495@gmail.com](mailto:amanyadav880495@gmail.com)  
+🔗 [GitHub Profile](https://github.com/SKYTOX07)
 
 ---
